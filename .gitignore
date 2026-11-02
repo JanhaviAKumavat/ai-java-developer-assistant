@@ -1,0 +1,12 @@
+﻿.env
+.env.*
+!.env.example
+backend/target/
+backend/uploads/
+backend/HELP.md
+frontend/node_modules/
+frontend/dist/
+.vscode/
+.idea/
+*.log
+Thumbs.db
